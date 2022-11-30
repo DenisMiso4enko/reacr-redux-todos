@@ -1,0 +1,20 @@
+.todo-list {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.todo {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    align-items: center;
+}
+p {
+    font-size: 24px;
+    margin-bottom: 0;
+}
+.button-controls {
+    display: flex;
+    gap: 8px;
+}
